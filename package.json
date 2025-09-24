@@ -9,6 +9,7 @@
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": ["freecodecamp", "node", "npm", "backend", "express"],
   "engines": {
     "node": "22.16.0"
   },
