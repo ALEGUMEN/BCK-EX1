@@ -11,6 +11,7 @@
   },
   "keywords": ["freecodecamp", "node", "npm", "backend", "express"],
   "license": "MIT",
+  "version": "1.2.0",
   "engines": {
     "node": "22.16.0"
   },
